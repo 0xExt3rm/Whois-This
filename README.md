@@ -46,4 +46,4 @@ Which network is currently routing this address, via BGP — accepts either an I
 
 ## Disclaimer
 
-This tool is created strictly for educational purposes and authorized security testing. Do not use it against systems or infrastructure without explicit permission.
+This tool is created strictly for educational purposes and authorized security testing. Do not use it against systems or infrastructure without explicit permission. (but this is just OSINT :])
